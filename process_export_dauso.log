@@ -1,0 +1,944 @@
+2024-09-10 22:15:55,582 - INFO - Connected to Redis successfully.
+2024-09-10 22:15:55,582 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI']
+2024-09-10 22:15:55,582 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-10 22:15:56,322 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-10 22:15:56,329 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-09-10 22:15:56,850 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-09-10 22:15:57,586 - INFO - Data has been written to /home/Export_dau_so/79f699fd-3639-4543-90e3-92afbcd5bcee/export_dauso_10-09-2024 22:15:57.xlsx
+2024-09-10 22:15:57,586 - INFO - Updating status to 'Completed' for record ID: 79f699fd-3639-4543-90e3-92afbcd5bcee.
+2024-09-10 22:15:57,600 - INFO - Record ID 79f699fd-3639-4543-90e3-92afbcd5bcee has been updated to 'Completed'.
+2024-09-10 22:15:57,601 - INFO - Execution time: 2.02 seconds
+2024-09-10 22:23:15,024 - INFO - Connected to Redis successfully.
+2024-09-10 22:23:15,024 - INFO - Processing single group: HDSS_CSE
+2024-09-10 22:23:15,024 - INFO - Processing group: HDSS_CSE with c_status: Lock
+2024-09-10 22:23:15,268 - INFO - Data has been written to /home/Export_dau_so/2cb4cb16-deb0-4e61-a368-9dd59787ea93/export_dauso_10-09-2024 22:23:15.xlsx
+2024-09-10 22:23:15,268 - INFO - Updating status to 'Completed' for record ID: 2cb4cb16-deb0-4e61-a368-9dd59787ea93.
+2024-09-10 22:23:15,285 - INFO - Record ID 2cb4cb16-deb0-4e61-a368-9dd59787ea93 has been updated to 'Completed'.
+2024-09-10 22:23:15,285 - INFO - Execution time: 0.26 seconds
+2024-09-11 22:23:11,306 - INFO - Connected to Redis successfully.
+2024-09-11 22:23:11,313 - INFO - Processing single group: HDSS_COL
+2024-09-11 22:23:11,313 - INFO - Processing group: HDSS_COL with c_status: Lock
+2024-09-11 22:23:12,887 - INFO - Data has been written to /home/Export_dau_so/5430330a-f3a1-4888-aef0-90fb6ebb90a1/export_dauso_11-09-2024 22:23:12.xlsx
+2024-09-11 22:23:12,887 - INFO - Updating status to 'Completed' for record ID: 5430330a-f3a1-4888-aef0-90fb6ebb90a1.
+2024-09-11 22:23:12,904 - INFO - Record ID 5430330a-f3a1-4888-aef0-90fb6ebb90a1 has been updated to 'Completed'.
+2024-09-11 22:23:12,904 - INFO - Execution time: 1.59 seconds
+2024-09-11 22:23:46,499 - INFO - Connected to Redis successfully.
+2024-09-11 22:23:46,499 - INFO - Processing single group: HDSS_COL
+2024-09-11 22:23:46,499 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-11 22:23:47,562 - INFO - Data has been written to /home/Export_dau_so/aa6bbbce-1760-487e-8ecc-0685a712457f/export_dauso_11-09-2024 22:23:47.xlsx
+2024-09-11 22:23:47,563 - INFO - Updating status to 'Completed' for record ID: aa6bbbce-1760-487e-8ecc-0685a712457f.
+2024-09-11 22:23:47,578 - INFO - Record ID aa6bbbce-1760-487e-8ecc-0685a712457f has been updated to 'Completed'.
+2024-09-11 22:23:47,578 - INFO - Execution time: 1.08 seconds
+2024-09-11 22:30:19,040 - INFO - Connected to Redis successfully.
+2024-09-11 22:30:19,040 - INFO - Processing single group: HDSS_CSE
+2024-09-11 22:30:19,040 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-11 22:30:19,279 - INFO - Data has been written to /home/Export_dau_so/a41f17e5-f1a0-4a85-b47f-5773eed4b722/export_dauso_11-09-2024 22:30:19.xlsx
+2024-09-11 22:30:19,279 - INFO - Updating status to 'Completed' for record ID: a41f17e5-f1a0-4a85-b47f-5773eed4b722.
+2024-09-11 22:30:19,296 - INFO - Record ID a41f17e5-f1a0-4a85-b47f-5773eed4b722 has been updated to 'Completed'.
+2024-09-11 22:30:19,296 - INFO - Execution time: 0.26 seconds
+2024-09-13 00:03:35,326 - INFO - Connected to Redis successfully.
+2024-09-13 00:03:35,328 - INFO - Processing single group: HDSS_CSE
+2024-09-13 00:03:35,328 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-13 00:03:35,728 - INFO - Data has been written to /home/Export_dau_so/8c64b0e6-8c81-4415-b5ab-0d4470d89096/export_dauso_13-09-2024 00:03:35.xlsx
+2024-09-13 00:03:35,728 - INFO - Updating status to 'Completed' for record ID: 8c64b0e6-8c81-4415-b5ab-0d4470d89096.
+2024-09-13 00:03:35,745 - INFO - Record ID 8c64b0e6-8c81-4415-b5ab-0d4470d89096 has been updated to 'Completed'.
+2024-09-13 00:03:35,745 - INFO - Execution time: 0.42 seconds
+2024-09-13 21:07:38,784 - INFO - Connected to Redis successfully.
+2024-09-13 21:07:38,784 - INFO - Processing single group: HDSS_COL
+2024-09-13 21:07:38,784 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-13 21:07:39,988 - INFO - Data has been written to /home/Export_dau_so/90db6778-38d1-4353-bccc-5a44d6858d5d/export_dauso_13-09-2024 21:07:39.xlsx
+2024-09-13 21:07:39,988 - INFO - Updating status to 'Completed' for record ID: 90db6778-38d1-4353-bccc-5a44d6858d5d.
+2024-09-13 21:07:40,003 - INFO - Record ID 90db6778-38d1-4353-bccc-5a44d6858d5d has been updated to 'Completed'.
+2024-09-13 21:07:40,003 - INFO - Execution time: 1.22 seconds
+2024-09-19 12:23:51,081 - INFO - Connected to Redis successfully.
+2024-09-19 12:23:51,081 - INFO - Processing single group: HDSS_CSE
+2024-09-19 12:23:51,082 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-19 12:23:51,437 - INFO - Data has been written to /home/Export_dau_so/d4a136c8-414f-4498-89d3-6eb8f6c2e18d/export_dauso_19-09-2024 12:23:51.xlsx
+2024-09-19 12:23:51,438 - INFO - Updating status to 'Completed' for record ID: d4a136c8-414f-4498-89d3-6eb8f6c2e18d.
+2024-09-19 12:23:51,454 - INFO - Record ID d4a136c8-414f-4498-89d3-6eb8f6c2e18d has been updated to 'Completed'.
+2024-09-19 12:23:51,454 - INFO - Execution time: 0.37 seconds
+2024-09-19 12:24:36,539 - INFO - Connected to Redis successfully.
+2024-09-19 12:24:36,540 - INFO - Processing single group: HDSS_CSE
+2024-09-19 12:24:36,540 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-19 12:24:36,785 - INFO - Data has been written to /home/Export_dau_so/f6653e79-f9f7-49cf-90fe-633245a31ca8/export_dauso_19-09-2024 12:24:36.xlsx
+2024-09-19 12:24:36,785 - INFO - Updating status to 'Completed' for record ID: f6653e79-f9f7-49cf-90fe-633245a31ca8.
+2024-09-19 12:24:36,803 - INFO - Record ID f6653e79-f9f7-49cf-90fe-633245a31ca8 has been updated to 'Completed'.
+2024-09-19 12:24:36,803 - INFO - Execution time: 0.26 seconds
+2024-09-19 12:30:03,070 - INFO - Connected to Redis successfully.
+2024-09-19 12:30:03,071 - INFO - Processing single group: HDSS_CSE
+2024-09-19 12:30:03,071 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-19 12:30:03,310 - INFO - Data has been written to /home/Export_dau_so/df6e2f25-9bcd-48cd-b702-978761e768e4/export_dauso_19-09-2024 12:30:03.xlsx
+2024-09-19 12:30:03,310 - INFO - Updating status to 'Completed' for record ID: df6e2f25-9bcd-48cd-b702-978761e768e4.
+2024-09-19 12:30:03,325 - INFO - Record ID df6e2f25-9bcd-48cd-b702-978761e768e4 has been updated to 'Completed'.
+2024-09-19 12:30:03,325 - INFO - Execution time: 0.25 seconds
+2024-09-19 12:31:22,062 - INFO - Connected to Redis successfully.
+2024-09-19 12:31:22,062 - INFO - Processing single group: HDSS_CSE
+2024-09-19 12:31:22,062 - INFO - Processing group: HDSS_CSE with c_status: Lock
+2024-09-19 12:31:22,333 - INFO - Data has been written to /home/Export_dau_so/d6284c0d-1e5d-4405-86b1-03d4ebfae132/export_dauso_19-09-2024 12:31:22.xlsx
+2024-09-19 12:31:22,333 - INFO - Updating status to 'Completed' for record ID: d6284c0d-1e5d-4405-86b1-03d4ebfae132.
+2024-09-19 12:31:22,349 - INFO - Record ID d6284c0d-1e5d-4405-86b1-03d4ebfae132 has been updated to 'Completed'.
+2024-09-19 12:31:22,349 - INFO - Execution time: 0.29 seconds
+2024-09-23 22:13:49,283 - INFO - Connected to Redis successfully.
+2024-09-23 22:13:49,284 - INFO - Processing single group: HDSS_COL
+2024-09-23 22:13:49,284 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-23 22:13:50,424 - INFO - Data has been written to /home/Export_dau_so/7cbf96bd-6b5e-4966-bcf7-101314d61b38/export_dauso_23-09-2024 22:13:50.xlsx
+2024-09-23 22:13:50,424 - INFO - Updating status to 'Completed' for record ID: 7cbf96bd-6b5e-4966-bcf7-101314d61b38.
+2024-09-23 22:13:50,439 - INFO - Record ID 7cbf96bd-6b5e-4966-bcf7-101314d61b38 has been updated to 'Completed'.
+2024-09-23 22:13:50,440 - INFO - Execution time: 1.16 seconds
+2024-09-24 10:11:23,541 - INFO - Connected to Redis successfully.
+2024-09-24 10:11:23,542 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-24 10:11:23,542 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-24 10:11:24,270 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-24 10:11:24,277 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-24 10:11:24,784 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-24 10:11:24,992 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-24 10:11:25,907 - INFO - Data has been written to /home/Export_dau_so/dc87f135-4c75-4c67-a921-dbcb17ef2be5/export_dauso_24-09-2024 10:11:24.xlsx
+2024-09-24 10:11:25,908 - INFO - Updating status to 'Completed' for record ID: dc87f135-4c75-4c67-a921-dbcb17ef2be5.
+2024-09-24 10:11:25,926 - INFO - Record ID dc87f135-4c75-4c67-a921-dbcb17ef2be5 has been updated to 'Completed'.
+2024-09-24 10:11:25,926 - INFO - Execution time: 2.38 seconds
+2024-09-24 16:15:45,376 - INFO - Connected to Redis successfully.
+2024-09-24 16:15:45,377 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-24 16:15:45,377 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-24 16:15:46,098 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-24 16:15:46,112 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-24 16:15:46,592 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-24 16:15:46,769 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-24 16:15:47,745 - INFO - Data has been written to /home/Export_dau_so/b8b3bfdd-f073-4ca9-9011-742fad7fd4a7/export_dauso_24-09-2024 16:15:46.xlsx
+2024-09-24 16:15:47,745 - INFO - Updating status to 'Completed' for record ID: b8b3bfdd-f073-4ca9-9011-742fad7fd4a7.
+2024-09-24 16:15:47,761 - INFO - Record ID b8b3bfdd-f073-4ca9-9011-742fad7fd4a7 has been updated to 'Completed'.
+2024-09-24 16:15:47,761 - INFO - Execution time: 2.38 seconds
+2024-09-24 16:18:15,678 - INFO - Connected to Redis successfully.
+2024-09-24 16:18:15,678 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-24 16:18:15,678 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-24 16:18:16,428 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-24 16:18:16,434 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-24 16:18:16,917 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-24 16:18:17,119 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-24 16:18:18,030 - INFO - Data has been written to /home/Export_dau_so/d4051bf1-88fa-4f03-a479-e6f18f91306d/export_dauso_24-09-2024 16:18:17.xlsx
+2024-09-24 16:18:18,030 - INFO - Updating status to 'Completed' for record ID: d4051bf1-88fa-4f03-a479-e6f18f91306d.
+2024-09-24 16:18:18,046 - INFO - Record ID d4051bf1-88fa-4f03-a479-e6f18f91306d has been updated to 'Completed'.
+2024-09-24 16:18:18,047 - INFO - Execution time: 2.37 seconds
+2024-09-24 16:18:51,951 - INFO - Connected to Redis successfully.
+2024-09-24 16:18:51,951 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-24 16:18:51,951 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-24 16:18:52,652 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-24 16:18:52,658 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-24 16:18:53,159 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-24 16:18:53,325 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-24 16:18:54,269 - INFO - Data has been written to /home/Export_dau_so/fcb6134c-3dca-4cee-8187-3bb27eed39d1/export_dauso_24-09-2024 16:18:53.xlsx
+2024-09-24 16:18:54,269 - INFO - Updating status to 'Completed' for record ID: fcb6134c-3dca-4cee-8187-3bb27eed39d1.
+2024-09-24 16:18:54,286 - INFO - Record ID fcb6134c-3dca-4cee-8187-3bb27eed39d1 has been updated to 'Completed'.
+2024-09-24 16:18:54,286 - INFO - Execution time: 2.33 seconds
+2024-09-25 16:45:57,156 - INFO - Connected to Redis successfully.
+2024-09-25 16:45:57,157 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 16:45:57,157 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-25 16:45:57,936 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-25 16:45:57,942 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-25 16:45:58,469 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-25 16:45:58,672 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-25 16:45:59,623 - INFO - Data has been written to /home/Export_dau_so/4cbf686c-5fc3-4a07-a69c-3e7603efacc0/export_dauso_25-09-2024 16:45:58.xlsx
+2024-09-25 16:45:59,624 - INFO - Updating status to 'Completed' for record ID: 4cbf686c-5fc3-4a07-a69c-3e7603efacc0.
+2024-09-25 16:45:59,640 - INFO - Record ID 4cbf686c-5fc3-4a07-a69c-3e7603efacc0 has been updated to 'Completed'.
+2024-09-25 16:45:59,640 - INFO - Execution time: 2.48 seconds
+2024-09-25 17:10:12,556 - INFO - Connected to Redis successfully.
+2024-09-25 17:10:12,556 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:10:12,557 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-25 17:10:13,359 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-25 17:10:13,366 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-25 17:10:13,934 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-25 17:10:14,127 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-25 17:10:15,060 - INFO - Data has been written to /home/Export_dau_so/afa45fa0-d86d-4418-8cca-dada0cf000a4/export_dauso_25-09-2024 17:10:14.xlsx
+2024-09-25 17:10:15,060 - INFO - Updating status to 'Completed' for record ID: afa45fa0-d86d-4418-8cca-dada0cf000a4.
+2024-09-25 17:10:15,077 - INFO - Record ID afa45fa0-d86d-4418-8cca-dada0cf000a4 has been updated to 'Completed'.
+2024-09-25 17:10:15,077 - INFO - Execution time: 2.52 seconds
+2024-09-25 17:13:39,710 - INFO - Connected to Redis successfully.
+2024-09-25 17:13:39,710 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:13:39,710 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-25 17:13:40,510 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-25 17:13:40,517 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-25 17:13:41,075 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-25 17:13:41,267 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-25 17:13:42,208 - INFO - Data has been written to /home/Export_dau_so/81b9fd08-1e24-4950-bb37-01e1252e66fc/export_dauso_25-09-2024 17:13:41.xlsx
+2024-09-25 17:13:42,208 - INFO - Updating status to 'Completed' for record ID: 81b9fd08-1e24-4950-bb37-01e1252e66fc.
+2024-09-25 17:13:42,225 - INFO - Record ID 81b9fd08-1e24-4950-bb37-01e1252e66fc has been updated to 'Completed'.
+2024-09-25 17:13:42,225 - INFO - Execution time: 2.51 seconds
+2024-09-25 17:16:54,652 - INFO - Connected to Redis successfully.
+2024-09-25 17:16:54,652 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:16:54,652 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-25 17:16:55,400 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-25 17:16:55,410 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-09-25 17:16:55,962 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-09-25 17:16:56,154 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-09-25 17:16:56,783 - INFO - Data has been written to /home/Export_dau_so/69a4618c-71ad-4aa9-b4a9-8a63c8155879/export_dauso_25-09-2024 17:16:56.xlsx
+2024-09-25 17:16:56,783 - INFO - Updating status to 'Completed' for record ID: 69a4618c-71ad-4aa9-b4a9-8a63c8155879.
+2024-09-25 17:16:56,801 - INFO - Record ID 69a4618c-71ad-4aa9-b4a9-8a63c8155879 has been updated to 'Completed'.
+2024-09-25 17:16:56,801 - INFO - Execution time: 2.15 seconds
+2024-09-25 17:18:38,649 - INFO - Connected to Redis successfully.
+2024-09-25 17:18:38,649 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:18:38,649 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-25 17:18:39,384 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-25 17:18:39,390 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-25 17:18:39,920 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-25 17:18:40,103 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-25 17:18:41,026 - INFO - Data has been written to /home/Export_dau_so/bfd01374-eaf3-47e6-9c89-3211db867d28/export_dauso_25-09-2024 17:18:40.xlsx
+2024-09-25 17:18:41,026 - INFO - Updating status to 'Completed' for record ID: bfd01374-eaf3-47e6-9c89-3211db867d28.
+2024-09-25 17:18:41,041 - INFO - Record ID bfd01374-eaf3-47e6-9c89-3211db867d28 has been updated to 'Completed'.
+2024-09-25 17:18:41,042 - INFO - Execution time: 2.39 seconds
+2024-09-25 17:23:24,382 - INFO - Connected to Redis successfully.
+2024-09-25 17:23:24,382 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:23:24,383 - INFO - Processing group: HDSS_COL with c_status: 
+2024-09-25 17:23:25,160 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-09-25 17:23:25,166 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-09-25 17:23:25,698 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-09-25 17:23:25,880 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-09-25 17:23:26,713 - INFO - Data has been written to /home/Export_dau_so/1090d934-a522-4366-89ea-c63295b72406/export_dauso_25-09-2024 17:23:25.xlsx
+2024-09-25 17:23:26,713 - INFO - Updating status to 'Completed' for record ID: 1090d934-a522-4366-89ea-c63295b72406.
+2024-09-25 17:23:26,738 - INFO - Record ID 1090d934-a522-4366-89ea-c63295b72406 has been updated to 'Completed'.
+2024-09-25 17:23:26,738 - INFO - Execution time: 2.36 seconds
+2024-09-25 17:55:48,425 - INFO - Connected to Redis successfully.
+2024-09-25 17:55:48,426 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 17:55:48,426 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-25 17:55:49,184 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-25 17:55:49,191 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-09-25 17:55:49,725 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-09-25 17:55:49,909 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-09-25 17:55:50,537 - INFO - Data has been written to /home/Export_dau_so/b97ae15a-4802-4a84-9228-2fd2ab593c8e/export_dauso_25-09-2024 17:55:49.xlsx
+2024-09-25 17:55:50,537 - INFO - Updating status to 'Completed' for record ID: b97ae15a-4802-4a84-9228-2fd2ab593c8e.
+2024-09-25 17:55:50,554 - INFO - Record ID b97ae15a-4802-4a84-9228-2fd2ab593c8e has been updated to 'Completed'.
+2024-09-25 17:55:50,554 - INFO - Execution time: 2.13 seconds
+2024-09-25 18:17:26,628 - INFO - Connected to Redis successfully.
+2024-09-25 18:17:26,628 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 18:17:26,628 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-25 18:17:27,380 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-25 18:17:27,386 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-09-25 18:17:27,933 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-09-25 18:17:28,124 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-09-25 18:17:28,710 - INFO - Data has been written to /home/Export_dau_so/b97ae15a-4802-4a84-9228-2fd2ab593c8e/export_dauso_25-09-2024 18:17:28.xlsx
+2024-09-25 18:17:28,710 - INFO - Updating status to 'Completed' for record ID: b97ae15a-4802-4a84-9228-2fd2ab593c8e.
+2024-09-25 18:17:28,727 - INFO - Record ID b97ae15a-4802-4a84-9228-2fd2ab593c8e has been updated to 'Completed'.
+2024-09-25 18:17:28,727 - INFO - Execution time: 2.10 seconds
+2024-09-25 18:21:33,586 - INFO - Connected to Redis successfully.
+2024-09-25 18:21:33,586 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-09-25 18:21:33,586 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-09-25 18:21:34,353 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-09-25 18:21:34,360 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-09-25 18:21:34,884 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-09-25 18:21:35,073 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-09-25 18:21:35,646 - INFO - Data has been written to /home/Export_dau_so/25fe3152-c7ed-4eaa-99d5-c5865e375d94/export_dauso_25-09-2024 18:21:35.xlsx
+2024-09-25 18:21:35,646 - INFO - Updating status to 'Completed' for record ID: 25fe3152-c7ed-4eaa-99d5-c5865e375d94.
+2024-09-25 18:21:35,662 - INFO - Record ID 25fe3152-c7ed-4eaa-99d5-c5865e375d94 has been updated to 'Completed'.
+2024-09-25 18:21:35,662 - INFO - Execution time: 2.08 seconds
+2024-10-01 09:51:46,423 - INFO - Connected to Redis successfully.
+2024-10-01 09:51:46,423 - INFO - Processing single group: HDSS_COL
+2024-10-01 09:51:46,423 - INFO - Processing group: HDSS_COL with c_status: 
+2024-10-01 09:51:47,665 - INFO - Data has been written to /home/Export_dau_so/6ecdb703-28b7-413c-a439-98a198b24726/export_dauso_01-10-2024 09:51:47.xlsx
+2024-10-01 09:51:47,665 - INFO - Updating status to 'Completed' for record ID: 6ecdb703-28b7-413c-a439-98a198b24726.
+2024-10-01 09:51:47,684 - INFO - Record ID 6ecdb703-28b7-413c-a439-98a198b24726 has been updated to 'Completed'.
+2024-10-01 09:51:47,685 - INFO - Execution time: 1.26 seconds
+2024-10-01 09:55:33,621 - INFO - Connected to Redis successfully.
+2024-10-01 09:55:33,622 - INFO - Processing single group: HDSS_COL_HNI
+2024-10-01 09:55:33,622 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-10-01 09:55:34,533 - INFO - Data has been written to /home/Export_dau_so/3c5b90cc-edd7-4930-b652-d9ae90e4c075/export_dauso_01-10-2024 09:55:34.xlsx
+2024-10-01 09:55:34,534 - INFO - Updating status to 'Completed' for record ID: 3c5b90cc-edd7-4930-b652-d9ae90e4c075.
+2024-10-01 09:55:34,554 - INFO - Record ID 3c5b90cc-edd7-4930-b652-d9ae90e4c075 has been updated to 'Completed'.
+2024-10-01 09:55:34,554 - INFO - Execution time: 0.93 seconds
+2024-10-01 09:56:08,433 - INFO - Connected to Redis successfully.
+2024-10-01 09:56:08,433 - INFO - Processing single group: HDSS_CSE
+2024-10-01 09:56:08,433 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-10-01 09:56:08,720 - INFO - Data has been written to /home/Export_dau_so/0238ce47-abda-47cb-9a0f-f29a926db416/export_dauso_01-10-2024 09:56:08.xlsx
+2024-10-01 09:56:08,720 - INFO - Updating status to 'Completed' for record ID: 0238ce47-abda-47cb-9a0f-f29a926db416.
+2024-10-01 09:56:08,740 - INFO - Record ID 0238ce47-abda-47cb-9a0f-f29a926db416 has been updated to 'Completed'.
+2024-10-01 09:56:08,741 - INFO - Execution time: 0.31 seconds
+2024-10-15 09:13:22,415 - INFO - Connected to Redis successfully.
+2024-10-15 09:13:22,416 - INFO - Processing single group: HDSS_COL
+2024-10-15 09:13:22,416 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-10-15 09:13:23,627 - INFO - Data has been written to /home/Export_dau_so/8f1c525a-8888-4707-a9e9-d57eee81a1e3/export_dauso_15-10-2024 09:13:23.xlsx
+2024-10-15 09:13:23,627 - INFO - Updating status to 'Completed' for record ID: 8f1c525a-8888-4707-a9e9-d57eee81a1e3.
+2024-10-15 09:13:23,649 - INFO - Record ID 8f1c525a-8888-4707-a9e9-d57eee81a1e3 has been updated to 'Completed'.
+2024-10-15 09:13:23,650 - INFO - Execution time: 1.23 seconds
+2024-10-15 09:15:27,997 - INFO - Connected to Redis successfully.
+2024-10-15 09:15:27,997 - INFO - Processing single group: HDSS_CSE
+2024-10-15 09:15:27,997 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-10-15 09:15:28,228 - INFO - Data has been written to /home/Export_dau_so/e3d5c8e0-05e4-45dc-8f87-ee090c0d7ab0/export_dauso_15-10-2024 09:15:28.xlsx
+2024-10-15 09:15:28,228 - INFO - Updating status to 'Completed' for record ID: e3d5c8e0-05e4-45dc-8f87-ee090c0d7ab0.
+2024-10-15 09:15:28,249 - INFO - Record ID e3d5c8e0-05e4-45dc-8f87-ee090c0d7ab0 has been updated to 'Completed'.
+2024-10-15 09:15:28,249 - INFO - Execution time: 0.25 seconds
+2024-11-19 13:22:49,242 - INFO - Connected to Redis successfully.
+2024-11-19 13:22:49,242 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-19 13:22:49,242 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-19 13:22:50,017 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-19 13:22:50,025 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-19 13:22:50,513 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-19 13:22:50,699 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-19 13:22:51,604 - INFO - Data has been written to /home/Export_dau_so/20d7395a-edd9-475d-9a10-12871fd72fef/export_dauso_19-11-2024 13:22:50.xlsx
+2024-11-19 13:22:51,604 - INFO - Updating status to 'Completed' for record ID: 20d7395a-edd9-475d-9a10-12871fd72fef.
+2024-11-19 13:22:51,627 - INFO - Record ID 20d7395a-edd9-475d-9a10-12871fd72fef has been updated to 'Completed'.
+2024-11-19 13:22:51,627 - INFO - Execution time: 2.38 seconds
+2024-11-19 13:23:02,900 - INFO - Connected to Redis successfully.
+2024-11-19 13:23:02,900 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-19 13:23:02,901 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-19 13:23:03,594 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-19 13:23:03,601 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-19 13:23:04,023 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-19 13:23:04,177 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-19 13:23:05,136 - INFO - Data has been written to /home/Export_dau_so/97596518-cc60-4d5a-bf35-32dd9114a3ee/export_dauso_19-11-2024 13:23:04.xlsx
+2024-11-19 13:23:05,136 - INFO - Updating status to 'Completed' for record ID: 97596518-cc60-4d5a-bf35-32dd9114a3ee.
+2024-11-19 13:23:05,153 - INFO - Record ID 97596518-cc60-4d5a-bf35-32dd9114a3ee has been updated to 'Completed'.
+2024-11-19 13:23:05,153 - INFO - Execution time: 2.25 seconds
+2024-11-19 13:24:12,685 - INFO - Connected to Redis successfully.
+2024-11-19 13:24:12,685 - INFO - Processing single group: string
+2024-11-19 13:24:12,685 - INFO - Processing group: string with c_status: string
+2024-11-19 13:24:12,689 - INFO - No data found with specified c_status values.
+2024-11-19 13:24:12,689 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:24:23,904 - INFO - Connected to Redis successfully.
+2024-11-19 13:24:23,905 - INFO - Processing single group: string
+2024-11-19 13:24:23,905 - INFO - Processing group: string with c_status: string
+2024-11-19 13:24:23,908 - INFO - No data found with specified c_status values.
+2024-11-19 13:24:23,909 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:24:35,096 - INFO - Connected to Redis successfully.
+2024-11-19 13:24:35,096 - INFO - Processing single group: string
+2024-11-19 13:24:35,096 - INFO - Processing group: string with c_status: string
+2024-11-19 13:24:35,100 - INFO - No data found with specified c_status values.
+2024-11-19 13:24:35,100 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:24:46,329 - INFO - Connected to Redis successfully.
+2024-11-19 13:24:46,330 - INFO - Processing single group: string
+2024-11-19 13:24:46,330 - INFO - Processing group: string with c_status: string
+2024-11-19 13:24:46,333 - INFO - No data found with specified c_status values.
+2024-11-19 13:24:46,334 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:24:57,667 - INFO - Connected to Redis successfully.
+2024-11-19 13:24:57,668 - INFO - Processing single group: string
+2024-11-19 13:24:57,668 - INFO - Processing group: string with c_status: string
+2024-11-19 13:24:57,672 - INFO - No data found with specified c_status values.
+2024-11-19 13:24:57,672 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:25:08,848 - INFO - Connected to Redis successfully.
+2024-11-19 13:25:08,848 - INFO - Processing single group: string
+2024-11-19 13:25:08,848 - INFO - Processing group: string with c_status: string
+2024-11-19 13:25:08,851 - INFO - No data found with specified c_status values.
+2024-11-19 13:25:08,851 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:25:20,108 - INFO - Connected to Redis successfully.
+2024-11-19 13:25:20,108 - INFO - Processing single group: string
+2024-11-19 13:25:20,109 - INFO - Processing group: string with c_status: string
+2024-11-19 13:25:20,112 - INFO - No data found with specified c_status values.
+2024-11-19 13:25:20,112 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:25:31,366 - INFO - Connected to Redis successfully.
+2024-11-19 13:25:31,366 - INFO - Processing single group: string
+2024-11-19 13:25:31,367 - INFO - Processing group: string with c_status: string
+2024-11-19 13:25:31,370 - INFO - No data found with specified c_status values.
+2024-11-19 13:25:31,370 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:25:42,815 - INFO - Connected to Redis successfully.
+2024-11-19 13:25:42,815 - INFO - Processing single group: string
+2024-11-19 13:25:42,815 - INFO - Processing group: string with c_status: string
+2024-11-19 13:25:42,819 - INFO - No data found with specified c_status values.
+2024-11-19 13:25:42,819 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:25:54,139 - INFO - Connected to Redis successfully.
+2024-11-19 13:25:54,139 - INFO - Processing single group: string
+2024-11-19 13:25:54,140 - INFO - Processing group: string with c_status: string
+2024-11-19 13:25:54,143 - INFO - No data found with specified c_status values.
+2024-11-19 13:25:54,143 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:26:05,336 - INFO - Connected to Redis successfully.
+2024-11-19 13:26:05,336 - INFO - Processing single group: string
+2024-11-19 13:26:05,337 - INFO - Processing group: string with c_status: string
+2024-11-19 13:26:05,340 - INFO - No data found with specified c_status values.
+2024-11-19 13:26:05,340 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:26:16,743 - INFO - Connected to Redis successfully.
+2024-11-19 13:26:16,743 - INFO - Processing single group: string
+2024-11-19 13:26:16,743 - INFO - Processing group: string with c_status: string
+2024-11-19 13:26:16,747 - INFO - No data found with specified c_status values.
+2024-11-19 13:26:16,747 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:26:27,846 - INFO - Connected to Redis successfully.
+2024-11-19 13:26:27,846 - INFO - Processing single group: string
+2024-11-19 13:26:27,846 - INFO - Processing group: string with c_status: string
+2024-11-19 13:26:27,850 - INFO - No data found with specified c_status values.
+2024-11-19 13:26:27,850 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:26:39,086 - INFO - Connected to Redis successfully.
+2024-11-19 13:26:39,086 - INFO - Processing single group: string
+2024-11-19 13:26:39,087 - INFO - Processing group: string with c_status: string
+2024-11-19 13:26:39,090 - INFO - No data found with specified c_status values.
+2024-11-19 13:26:39,090 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:26:50,339 - INFO - Connected to Redis successfully.
+2024-11-19 13:26:50,340 - INFO - Processing single group: string
+2024-11-19 13:26:50,340 - INFO - Processing group: string with c_status: string
+2024-11-19 13:26:50,344 - INFO - No data found with specified c_status values.
+2024-11-19 13:26:50,344 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:01,615 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:01,616 - INFO - Processing single group: string
+2024-11-19 13:27:01,616 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:01,620 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:01,620 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:12,875 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:12,875 - INFO - Processing single group: string
+2024-11-19 13:27:12,875 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:12,879 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:12,879 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:24,116 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:24,117 - INFO - Processing single group: string
+2024-11-19 13:27:24,117 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:24,120 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:24,120 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:35,280 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:35,280 - INFO - Processing single group: string
+2024-11-19 13:27:35,280 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:35,284 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:35,284 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:46,597 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:46,597 - INFO - Processing single group: string
+2024-11-19 13:27:46,597 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:46,601 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:46,601 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:27:57,876 - INFO - Connected to Redis successfully.
+2024-11-19 13:27:57,876 - INFO - Processing single group: string
+2024-11-19 13:27:57,876 - INFO - Processing group: string with c_status: string
+2024-11-19 13:27:57,880 - INFO - No data found with specified c_status values.
+2024-11-19 13:27:57,880 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:28:09,086 - INFO - Connected to Redis successfully.
+2024-11-19 13:28:09,086 - INFO - Processing single group: string
+2024-11-19 13:28:09,086 - INFO - Processing group: string with c_status: string
+2024-11-19 13:28:09,090 - INFO - No data found with specified c_status values.
+2024-11-19 13:28:09,090 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:28:20,384 - INFO - Connected to Redis successfully.
+2024-11-19 13:28:20,384 - INFO - Processing single group: string
+2024-11-19 13:28:20,384 - INFO - Processing group: string with c_status: string
+2024-11-19 13:28:20,387 - INFO - No data found with specified c_status values.
+2024-11-19 13:28:20,388 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:28:31,582 - INFO - Connected to Redis successfully.
+2024-11-19 13:28:31,582 - INFO - Processing single group: string
+2024-11-19 13:28:31,582 - INFO - Processing group: string with c_status: string
+2024-11-19 13:28:31,586 - INFO - No data found with specified c_status values.
+2024-11-19 13:28:31,586 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:28:42,893 - INFO - Connected to Redis successfully.
+2024-11-19 13:28:42,893 - INFO - Processing single group: string
+2024-11-19 13:28:42,893 - INFO - Processing group: string with c_status: string
+2024-11-19 13:28:42,897 - INFO - No data found with specified c_status values.
+2024-11-19 13:28:42,897 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:28:54,046 - INFO - Connected to Redis successfully.
+2024-11-19 13:28:54,046 - INFO - Processing single group: string
+2024-11-19 13:28:54,046 - INFO - Processing group: string with c_status: string
+2024-11-19 13:28:54,050 - INFO - No data found with specified c_status values.
+2024-11-19 13:28:54,050 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:29:05,370 - INFO - Connected to Redis successfully.
+2024-11-19 13:29:05,370 - INFO - Processing single group: string
+2024-11-19 13:29:05,370 - INFO - Processing group: string with c_status: string
+2024-11-19 13:29:05,374 - INFO - No data found with specified c_status values.
+2024-11-19 13:29:05,374 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:29:16,591 - INFO - Connected to Redis successfully.
+2024-11-19 13:29:16,592 - INFO - Processing single group: string
+2024-11-19 13:29:16,592 - INFO - Processing group: string with c_status: string
+2024-11-19 13:29:16,595 - INFO - No data found with specified c_status values.
+2024-11-19 13:29:16,596 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:29:27,860 - INFO - Connected to Redis successfully.
+2024-11-19 13:29:27,860 - INFO - Processing single group: string
+2024-11-19 13:29:27,860 - INFO - Processing group: string with c_status: string
+2024-11-19 13:29:27,864 - INFO - No data found with specified c_status values.
+2024-11-19 13:29:27,864 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:29:39,096 - INFO - Connected to Redis successfully.
+2024-11-19 13:29:39,096 - INFO - Processing single group: string
+2024-11-19 13:29:39,096 - INFO - Processing group: string with c_status: string
+2024-11-19 13:29:39,100 - INFO - No data found with specified c_status values.
+2024-11-19 13:29:39,100 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:29:50,385 - INFO - Connected to Redis successfully.
+2024-11-19 13:29:50,385 - INFO - Processing single group: string
+2024-11-19 13:29:50,385 - INFO - Processing group: string with c_status: string
+2024-11-19 13:29:50,389 - INFO - No data found with specified c_status values.
+2024-11-19 13:29:50,389 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:01,581 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:01,581 - INFO - Processing single group: string
+2024-11-19 13:30:01,581 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:01,585 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:01,585 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:13,023 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:13,024 - INFO - Processing single group: string
+2024-11-19 13:30:13,024 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:13,027 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:13,028 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:24,440 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:24,440 - INFO - Processing single group: string
+2024-11-19 13:30:24,440 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:24,444 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:24,444 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:35,580 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:35,580 - INFO - Processing single group: string
+2024-11-19 13:30:35,581 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:35,585 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:35,585 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:46,865 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:46,865 - INFO - Processing single group: string
+2024-11-19 13:30:46,865 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:46,868 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:46,868 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:30:58,056 - INFO - Connected to Redis successfully.
+2024-11-19 13:30:58,056 - INFO - Processing single group: string
+2024-11-19 13:30:58,056 - INFO - Processing group: string with c_status: string
+2024-11-19 13:30:58,060 - INFO - No data found with specified c_status values.
+2024-11-19 13:30:58,060 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:31:09,371 - INFO - Connected to Redis successfully.
+2024-11-19 13:31:09,371 - INFO - Processing single group: string
+2024-11-19 13:31:09,371 - INFO - Processing group: string with c_status: string
+2024-11-19 13:31:09,375 - INFO - No data found with specified c_status values.
+2024-11-19 13:31:09,375 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:31:20,654 - INFO - Connected to Redis successfully.
+2024-11-19 13:31:20,654 - INFO - Processing single group: string
+2024-11-19 13:31:20,654 - INFO - Processing group: string with c_status: string
+2024-11-19 13:31:20,657 - INFO - No data found with specified c_status values.
+2024-11-19 13:31:20,658 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:31:31,904 - INFO - Connected to Redis successfully.
+2024-11-19 13:31:31,905 - INFO - Processing single group: string
+2024-11-19 13:31:31,905 - INFO - Processing group: string with c_status: string
+2024-11-19 13:31:31,909 - INFO - No data found with specified c_status values.
+2024-11-19 13:31:31,909 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:31:43,134 - INFO - Connected to Redis successfully.
+2024-11-19 13:31:43,134 - INFO - Processing single group: string
+2024-11-19 13:31:43,134 - INFO - Processing group: string with c_status: string
+2024-11-19 13:31:43,143 - INFO - No data found with specified c_status values.
+2024-11-19 13:31:43,144 - INFO - Execution time: 0.01 seconds
+2024-11-19 13:31:54,325 - INFO - Connected to Redis successfully.
+2024-11-19 13:31:54,325 - INFO - Processing single group: string
+2024-11-19 13:31:54,326 - INFO - Processing group: string with c_status: string
+2024-11-19 13:31:54,329 - INFO - No data found with specified c_status values.
+2024-11-19 13:31:54,329 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:32:05,594 - INFO - Connected to Redis successfully.
+2024-11-19 13:32:05,595 - INFO - Processing single group: string
+2024-11-19 13:32:05,595 - INFO - Processing group: string with c_status: string
+2024-11-19 13:32:05,599 - INFO - No data found with specified c_status values.
+2024-11-19 13:32:05,599 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:32:16,860 - INFO - Connected to Redis successfully.
+2024-11-19 13:32:16,861 - INFO - Processing single group: string
+2024-11-19 13:32:16,861 - INFO - Processing group: string with c_status: string
+2024-11-19 13:32:16,864 - INFO - No data found with specified c_status values.
+2024-11-19 13:32:16,864 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:32:28,129 - INFO - Connected to Redis successfully.
+2024-11-19 13:32:28,129 - INFO - Processing single group: string
+2024-11-19 13:32:28,130 - INFO - Processing group: string with c_status: string
+2024-11-19 13:32:28,134 - INFO - No data found with specified c_status values.
+2024-11-19 13:32:28,134 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:32:39,358 - INFO - Connected to Redis successfully.
+2024-11-19 13:32:39,358 - INFO - Processing single group: string
+2024-11-19 13:32:39,358 - INFO - Processing group: string with c_status: string
+2024-11-19 13:32:39,363 - INFO - No data found with specified c_status values.
+2024-11-19 13:32:39,363 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:32:50,609 - INFO - Connected to Redis successfully.
+2024-11-19 13:32:50,610 - INFO - Processing single group: string
+2024-11-19 13:32:50,610 - INFO - Processing group: string with c_status: string
+2024-11-19 13:32:50,613 - INFO - No data found with specified c_status values.
+2024-11-19 13:32:50,613 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:33:01,869 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:01,870 - INFO - Processing single group: string
+2024-11-19 13:33:01,870 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:01,874 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:01,874 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:33:13,118 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:13,118 - INFO - Processing single group: string
+2024-11-19 13:33:13,118 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:13,127 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:13,127 - INFO - Execution time: 0.01 seconds
+2024-11-19 13:33:24,398 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:24,399 - INFO - Processing single group: string
+2024-11-19 13:33:24,399 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:24,403 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:24,403 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:33:35,649 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:35,649 - INFO - Processing single group: string
+2024-11-19 13:33:35,650 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:35,653 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:35,653 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:33:46,872 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:46,872 - INFO - Processing single group: string
+2024-11-19 13:33:46,873 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:46,876 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:46,876 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:33:58,121 - INFO - Connected to Redis successfully.
+2024-11-19 13:33:58,121 - INFO - Processing single group: string
+2024-11-19 13:33:58,121 - INFO - Processing group: string with c_status: string
+2024-11-19 13:33:58,124 - INFO - No data found with specified c_status values.
+2024-11-19 13:33:58,124 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:34:09,331 - INFO - Connected to Redis successfully.
+2024-11-19 13:34:09,332 - INFO - Processing single group: string
+2024-11-19 13:34:09,332 - INFO - Processing group: string with c_status: string
+2024-11-19 13:34:09,335 - INFO - No data found with specified c_status values.
+2024-11-19 13:34:09,336 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:34:20,661 - INFO - Connected to Redis successfully.
+2024-11-19 13:34:20,661 - INFO - Processing single group: string
+2024-11-19 13:34:20,661 - INFO - Processing group: string with c_status: string
+2024-11-19 13:34:20,664 - INFO - No data found with specified c_status values.
+2024-11-19 13:34:20,664 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:34:31,906 - INFO - Connected to Redis successfully.
+2024-11-19 13:34:31,906 - INFO - Processing single group: string
+2024-11-19 13:34:31,906 - INFO - Processing group: string with c_status: string
+2024-11-19 13:34:31,910 - INFO - No data found with specified c_status values.
+2024-11-19 13:34:31,910 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:34:43,116 - INFO - Connected to Redis successfully.
+2024-11-19 13:34:43,117 - INFO - Processing single group: string
+2024-11-19 13:34:43,117 - INFO - Processing group: string with c_status: string
+2024-11-19 13:34:43,120 - INFO - No data found with specified c_status values.
+2024-11-19 13:34:43,120 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:34:54,315 - INFO - Connected to Redis successfully.
+2024-11-19 13:34:54,316 - INFO - Processing single group: string
+2024-11-19 13:34:54,316 - INFO - Processing group: string with c_status: string
+2024-11-19 13:34:54,320 - INFO - No data found with specified c_status values.
+2024-11-19 13:34:54,320 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:35:05,641 - INFO - Connected to Redis successfully.
+2024-11-19 13:35:05,641 - INFO - Processing single group: string
+2024-11-19 13:35:05,643 - INFO - Processing group: string with c_status: string
+2024-11-19 13:35:05,646 - INFO - No data found with specified c_status values.
+2024-11-19 13:35:05,646 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:35:16,841 - INFO - Connected to Redis successfully.
+2024-11-19 13:35:16,841 - INFO - Processing single group: string
+2024-11-19 13:35:16,841 - INFO - Processing group: string with c_status: string
+2024-11-19 13:35:16,845 - INFO - No data found with specified c_status values.
+2024-11-19 13:35:16,845 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:35:28,147 - INFO - Connected to Redis successfully.
+2024-11-19 13:35:28,147 - INFO - Processing single group: string
+2024-11-19 13:35:28,147 - INFO - Processing group: string with c_status: string
+2024-11-19 13:35:28,151 - INFO - No data found with specified c_status values.
+2024-11-19 13:35:28,151 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:35:39,366 - INFO - Connected to Redis successfully.
+2024-11-19 13:35:39,367 - INFO - Processing single group: string
+2024-11-19 13:35:39,367 - INFO - Processing group: string with c_status: string
+2024-11-19 13:35:39,370 - INFO - No data found with specified c_status values.
+2024-11-19 13:35:39,370 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:35:50,614 - INFO - Connected to Redis successfully.
+2024-11-19 13:35:50,614 - INFO - Processing single group: string
+2024-11-19 13:35:50,615 - INFO - Processing group: string with c_status: string
+2024-11-19 13:35:50,619 - INFO - No data found with specified c_status values.
+2024-11-19 13:35:50,619 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:01,809 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:01,810 - INFO - Processing single group: string
+2024-11-19 13:36:01,810 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:01,813 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:01,813 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:13,147 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:13,147 - INFO - Processing single group: string
+2024-11-19 13:36:13,148 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:13,152 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:13,152 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:24,367 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:24,368 - INFO - Processing single group: string
+2024-11-19 13:36:24,368 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:24,372 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:24,372 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:35,614 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:35,615 - INFO - Processing single group: string
+2024-11-19 13:36:35,615 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:35,618 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:35,618 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:46,846 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:46,846 - INFO - Processing single group: string
+2024-11-19 13:36:46,846 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:46,849 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:46,849 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:36:58,052 - INFO - Connected to Redis successfully.
+2024-11-19 13:36:58,053 - INFO - Processing single group: string
+2024-11-19 13:36:58,053 - INFO - Processing group: string with c_status: string
+2024-11-19 13:36:58,056 - INFO - No data found with specified c_status values.
+2024-11-19 13:36:58,056 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:37:09,375 - INFO - Connected to Redis successfully.
+2024-11-19 13:37:09,376 - INFO - Processing single group: string
+2024-11-19 13:37:09,376 - INFO - Processing group: string with c_status: string
+2024-11-19 13:37:09,379 - INFO - No data found with specified c_status values.
+2024-11-19 13:37:09,380 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:37:20,683 - INFO - Connected to Redis successfully.
+2024-11-19 13:37:20,683 - INFO - Processing single group: string
+2024-11-19 13:37:20,683 - INFO - Processing group: string with c_status: string
+2024-11-19 13:37:20,687 - INFO - No data found with specified c_status values.
+2024-11-19 13:37:20,687 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:37:31,930 - INFO - Connected to Redis successfully.
+2024-11-19 13:37:31,930 - INFO - Processing single group: string
+2024-11-19 13:37:31,931 - INFO - Processing group: string with c_status: string
+2024-11-19 13:37:31,934 - INFO - No data found with specified c_status values.
+2024-11-19 13:37:31,934 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:37:43,092 - INFO - Connected to Redis successfully.
+2024-11-19 13:37:43,092 - INFO - Processing single group: string
+2024-11-19 13:37:43,092 - INFO - Processing group: string with c_status: string
+2024-11-19 13:37:43,096 - INFO - No data found with specified c_status values.
+2024-11-19 13:37:43,096 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:37:54,334 - INFO - Connected to Redis successfully.
+2024-11-19 13:37:54,334 - INFO - Processing single group: string
+2024-11-19 13:37:54,334 - INFO - Processing group: string with c_status: string
+2024-11-19 13:37:54,337 - INFO - No data found with specified c_status values.
+2024-11-19 13:37:54,338 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:38:05,547 - INFO - Connected to Redis successfully.
+2024-11-19 13:38:05,547 - INFO - Processing single group: string
+2024-11-19 13:38:05,547 - INFO - Processing group: string with c_status: string
+2024-11-19 13:38:05,551 - INFO - No data found with specified c_status values.
+2024-11-19 13:38:05,551 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:38:16,885 - INFO - Connected to Redis successfully.
+2024-11-19 13:38:16,886 - INFO - Processing single group: string
+2024-11-19 13:38:16,886 - INFO - Processing group: string with c_status: string
+2024-11-19 13:38:16,890 - INFO - No data found with specified c_status values.
+2024-11-19 13:38:16,891 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:38:28,135 - INFO - Connected to Redis successfully.
+2024-11-19 13:38:28,135 - INFO - Processing single group: string
+2024-11-19 13:38:28,136 - INFO - Processing group: string with c_status: string
+2024-11-19 13:38:28,139 - INFO - No data found with specified c_status values.
+2024-11-19 13:38:28,139 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:38:39,321 - INFO - Connected to Redis successfully.
+2024-11-19 13:38:39,322 - INFO - Processing single group: string
+2024-11-19 13:38:39,322 - INFO - Processing group: string with c_status: string
+2024-11-19 13:38:39,326 - INFO - No data found with specified c_status values.
+2024-11-19 13:38:39,326 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:38:50,663 - INFO - Connected to Redis successfully.
+2024-11-19 13:38:50,664 - INFO - Processing single group: string
+2024-11-19 13:38:50,664 - INFO - Processing group: string with c_status: string
+2024-11-19 13:38:50,668 - INFO - No data found with specified c_status values.
+2024-11-19 13:38:50,668 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:01,835 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:01,835 - INFO - Processing single group: string
+2024-11-19 13:39:01,835 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:01,839 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:01,839 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:13,127 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:13,128 - INFO - Processing single group: string
+2024-11-19 13:39:13,128 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:13,131 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:13,132 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:24,446 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:24,446 - INFO - Processing single group: string
+2024-11-19 13:39:24,446 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:24,450 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:24,450 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:35,903 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:35,904 - INFO - Processing single group: string
+2024-11-19 13:39:35,904 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:35,907 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:35,907 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:47,132 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:47,132 - INFO - Processing single group: string
+2024-11-19 13:39:47,132 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:47,136 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:47,136 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:39:58,343 - INFO - Connected to Redis successfully.
+2024-11-19 13:39:58,343 - INFO - Processing single group: string
+2024-11-19 13:39:58,344 - INFO - Processing group: string with c_status: string
+2024-11-19 13:39:58,347 - INFO - No data found with specified c_status values.
+2024-11-19 13:39:58,347 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:40:09,623 - INFO - Connected to Redis successfully.
+2024-11-19 13:40:09,623 - INFO - Processing single group: string
+2024-11-19 13:40:09,623 - INFO - Processing group: string with c_status: string
+2024-11-19 13:40:09,627 - INFO - No data found with specified c_status values.
+2024-11-19 13:40:09,627 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:40:20,835 - INFO - Connected to Redis successfully.
+2024-11-19 13:40:20,835 - INFO - Processing single group: string
+2024-11-19 13:40:20,835 - INFO - Processing group: string with c_status: string
+2024-11-19 13:40:20,839 - INFO - No data found with specified c_status values.
+2024-11-19 13:40:20,839 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:40:32,075 - INFO - Connected to Redis successfully.
+2024-11-19 13:40:32,076 - INFO - Processing single group: string
+2024-11-19 13:40:32,076 - INFO - Processing group: string with c_status: string
+2024-11-19 13:40:32,079 - INFO - No data found with specified c_status values.
+2024-11-19 13:40:32,079 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:40:43,411 - INFO - Connected to Redis successfully.
+2024-11-19 13:40:43,412 - INFO - Processing single group: string
+2024-11-19 13:40:43,412 - INFO - Processing group: string with c_status: string
+2024-11-19 13:40:43,415 - INFO - No data found with specified c_status values.
+2024-11-19 13:40:43,415 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:40:54,853 - INFO - Connected to Redis successfully.
+2024-11-19 13:40:54,853 - INFO - Processing single group: string
+2024-11-19 13:40:54,853 - INFO - Processing group: string with c_status: string
+2024-11-19 13:40:54,857 - INFO - No data found with specified c_status values.
+2024-11-19 13:40:54,857 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:41:06,091 - INFO - Connected to Redis successfully.
+2024-11-19 13:41:06,092 - INFO - Processing single group: string
+2024-11-19 13:41:06,092 - INFO - Processing group: string with c_status: string
+2024-11-19 13:41:06,095 - INFO - No data found with specified c_status values.
+2024-11-19 13:41:06,096 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:41:17,351 - INFO - Connected to Redis successfully.
+2024-11-19 13:41:17,351 - INFO - Processing single group: string
+2024-11-19 13:41:17,351 - INFO - Processing group: string with c_status: string
+2024-11-19 13:41:17,354 - INFO - No data found with specified c_status values.
+2024-11-19 13:41:17,354 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:41:28,614 - INFO - Connected to Redis successfully.
+2024-11-19 13:41:28,615 - INFO - Processing single group: string
+2024-11-19 13:41:28,615 - INFO - Processing group: string with c_status: string
+2024-11-19 13:41:28,618 - INFO - No data found with specified c_status values.
+2024-11-19 13:41:28,619 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:41:39,829 - INFO - Connected to Redis successfully.
+2024-11-19 13:41:39,829 - INFO - Processing single group: string
+2024-11-19 13:41:39,829 - INFO - Processing group: string with c_status: string
+2024-11-19 13:41:39,833 - INFO - No data found with specified c_status values.
+2024-11-19 13:41:39,833 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:41:51,109 - INFO - Connected to Redis successfully.
+2024-11-19 13:41:51,109 - INFO - Processing single group: string
+2024-11-19 13:41:51,109 - INFO - Processing group: string with c_status: string
+2024-11-19 13:41:51,113 - INFO - No data found with specified c_status values.
+2024-11-19 13:41:51,113 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:42:02,428 - INFO - Connected to Redis successfully.
+2024-11-19 13:42:02,428 - INFO - Processing single group: string
+2024-11-19 13:42:02,428 - INFO - Processing group: string with c_status: string
+2024-11-19 13:42:02,432 - INFO - No data found with specified c_status values.
+2024-11-19 13:42:02,432 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:42:13,686 - INFO - Connected to Redis successfully.
+2024-11-19 13:42:13,686 - INFO - Processing single group: string
+2024-11-19 13:42:13,686 - INFO - Processing group: string with c_status: string
+2024-11-19 13:42:13,690 - INFO - No data found with specified c_status values.
+2024-11-19 13:42:13,690 - INFO - Execution time: 0.00 seconds
+2024-11-19 13:45:47,662 - INFO - Connected to Redis successfully.
+2024-11-19 13:45:47,662 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-19 13:45:47,663 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-11-19 13:45:48,557 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-11-19 13:45:48,564 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-11-19 13:45:49,127 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-11-19 13:45:49,327 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-11-19 13:45:49,843 - INFO - Data has been written to /home/Export_dau_so/a3d4ccd0-ccdc-475e-8467-22ca78ac1293/export_dauso_19-11-2024 13:45:49.xlsx
+2024-11-19 13:45:49,843 - INFO - Updating status to 'Completed' for record ID: a3d4ccd0-ccdc-475e-8467-22ca78ac1293.
+2024-11-19 13:45:49,863 - INFO - Record ID a3d4ccd0-ccdc-475e-8467-22ca78ac1293 has been updated to 'Completed'.
+2024-11-19 13:45:49,863 - INFO - Execution time: 2.20 seconds
+2024-11-19 14:01:36,991 - INFO - Connected to Redis successfully.
+2024-11-19 14:01:36,992 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-19 14:01:36,992 - INFO - Processing group: HDSS_COL with c_status: Available
+2024-11-19 14:01:37,825 - INFO - Processing group: HDSS_CSE with c_status: Available
+2024-11-19 14:01:37,833 - INFO - Processing group: HDSS_COL_HNI with c_status: Available
+2024-11-19 14:01:38,360 - INFO - Processing group: HDSS_SCL_HNI with c_status: Available
+2024-11-19 14:01:38,565 - INFO - Processing group: HDSS_CUN with c_status: Available
+2024-11-19 14:01:39,192 - INFO - Data has been written to /home/Export_dau_so/ff5f3dec-9bd8-47f1-8c2d-dfea6e293900/export_dauso_19-11-2024 14:01:38.xlsx
+2024-11-19 14:01:39,192 - INFO - Updating status to 'Completed' for record ID: ff5f3dec-9bd8-47f1-8c2d-dfea6e293900.
+2024-11-19 14:01:39,213 - INFO - Record ID ff5f3dec-9bd8-47f1-8c2d-dfea6e293900 has been updated to 'Completed'.
+2024-11-19 14:01:39,213 - INFO - Execution time: 2.22 seconds
+2024-11-19 14:38:32,533 - INFO - Connected to Redis successfully.
+2024-11-19 14:38:32,534 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-19 14:38:32,534 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-19 14:38:33,428 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-19 14:38:33,436 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-19 14:38:33,985 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-19 14:38:34,183 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-19 14:38:35,056 - INFO - Data has been written to /home/Export_dau_so/da0f740b-1696-4f7c-a345-887329f08d55/export_dauso_19-11-2024 14:38:34.xlsx
+2024-11-19 14:38:35,057 - INFO - Updating status to 'Completed' for record ID: da0f740b-1696-4f7c-a345-887329f08d55.
+2024-11-19 14:38:35,078 - INFO - Record ID da0f740b-1696-4f7c-a345-887329f08d55 has been updated to 'Completed'.
+2024-11-19 14:38:35,078 - INFO - Execution time: 2.54 seconds
+2024-11-19 14:39:42,670 - INFO - Connected to Redis successfully.
+2024-11-19 14:39:42,671 - INFO - Processing single group: HDSS_COL
+2024-11-19 14:39:42,671 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-19 14:39:43,963 - INFO - Data has been written to /home/Export_dau_so/4c4544cf-e92c-4a9e-b6a7-db0d3a2f015b/export_dauso_19-11-2024 14:39:43.xlsx
+2024-11-19 14:39:43,964 - INFO - Updating status to 'Completed' for record ID: 4c4544cf-e92c-4a9e-b6a7-db0d3a2f015b.
+2024-11-19 14:39:43,981 - INFO - Record ID 4c4544cf-e92c-4a9e-b6a7-db0d3a2f015b has been updated to 'Completed'.
+2024-11-19 14:39:43,981 - INFO - Execution time: 1.31 seconds
+2024-11-20 09:53:00,356 - INFO - Connected to Redis successfully.
+2024-11-20 09:53:00,358 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-20 09:53:00,358 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-20 09:53:01,269 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-20 09:53:01,275 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-20 09:53:01,787 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-20 09:53:01,969 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-20 09:53:02,926 - INFO - Data has been written to /home/Export_dau_so/c5b7370c-4e26-4d17-9ffd-0f26a29f5786/export_dauso_20-11-2024 09:53:01.xlsx
+2024-11-20 09:53:02,926 - INFO - Updating status to 'Completed' for record ID: c5b7370c-4e26-4d17-9ffd-0f26a29f5786.
+2024-11-20 09:53:02,945 - INFO - Record ID c5b7370c-4e26-4d17-9ffd-0f26a29f5786 has been updated to 'Completed'.
+2024-11-20 09:53:02,945 - INFO - Execution time: 2.59 seconds
+2024-11-23 18:25:23,263 - INFO - Connected to Redis successfully.
+2024-11-23 18:25:23,264 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-23 18:25:23,264 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-23 18:25:24,089 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-23 18:25:24,096 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-23 18:25:24,628 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-23 18:25:24,822 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-23 18:25:25,751 - INFO - Data has been written to /home/Export_dau_so/a7b3ffe5-1b94-412c-9622-8eca3b7e9325/export_dauso_23-11-2024 18:25:24.xlsx
+2024-11-23 18:25:25,752 - INFO - Updating status to 'Completed' for record ID: a7b3ffe5-1b94-412c-9622-8eca3b7e9325.
+2024-11-23 18:25:25,767 - INFO - Record ID a7b3ffe5-1b94-412c-9622-8eca3b7e9325 has been updated to 'Completed'.
+2024-11-23 18:25:25,767 - INFO - Execution time: 2.50 seconds
+2024-11-26 10:03:58,512 - INFO - Connected to Redis successfully.
+2024-11-26 10:03:58,512 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2024-11-26 10:03:58,512 - INFO - Processing group: HDSS_COL with c_status: 
+2024-11-26 10:03:58,862 - INFO - Processing group: HDSS_CSE with c_status: 
+2024-11-26 10:03:58,867 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2024-11-26 10:03:59,349 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2024-11-26 10:03:59,478 - INFO - Processing group: HDSS_CUN with c_status: 
+2024-11-26 10:04:00,186 - INFO - Data has been written to /home/Export_dau_so/4b737ada-042d-4f23-8548-5dcb66daea53/export_dauso_26-11-2024 10:03:59.xlsx
+2024-11-26 10:04:00,186 - INFO - Updating status to 'Completed' for record ID: 4b737ada-042d-4f23-8548-5dcb66daea53.
+2024-11-26 10:04:00,208 - INFO - Record ID 4b737ada-042d-4f23-8548-5dcb66daea53 has been updated to 'Completed'.
+2024-11-26 10:04:00,209 - INFO - Execution time: 1.70 seconds
+2025-01-02 10:58:34,110 - INFO - Connected to Redis successfully.
+2025-01-02 10:58:34,110 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-01-02 10:58:34,111 - INFO - Processing group: HDSS_COL with c_status: 
+2025-01-02 10:58:34,705 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-01-02 10:58:34,716 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-01-02 10:58:35,300 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-01-02 10:58:35,444 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-01-02 10:58:36,118 - INFO - Data has been written to /home/Export_dau_so/e128e65b-193a-42f3-9b74-e77974089452/export_dauso_02-01-2025 10:58:35.xlsx
+2025-01-02 10:58:36,118 - INFO - Updating status to 'Completed' for record ID: e128e65b-193a-42f3-9b74-e77974089452.
+2025-01-02 10:58:36,138 - INFO - Record ID e128e65b-193a-42f3-9b74-e77974089452 has been updated to 'Completed'.
+2025-01-02 10:58:36,139 - INFO - Execution time: 2.03 seconds
+2025-02-05 14:31:38,070 - INFO - Connected to Redis successfully.
+2025-02-05 14:31:38,074 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-02-05 14:31:38,074 - INFO - Processing group: HDSS_COL with c_status: 
+2025-02-05 14:31:38,502 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-02-05 14:31:38,508 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-02-05 14:31:38,951 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-02-05 14:31:39,069 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-02-05 14:31:39,749 - INFO - Data has been written to /home/Export_dau_so/213955b7-4e1f-42c1-8719-5bc60712e3d4/export_dauso_05-02-2025 14:31:39.xlsx
+2025-02-05 14:31:39,749 - INFO - Updating status to 'Completed' for record ID: 213955b7-4e1f-42c1-8719-5bc60712e3d4.
+2025-02-05 14:31:39,767 - INFO - Record ID 213955b7-4e1f-42c1-8719-5bc60712e3d4 has been updated to 'Completed'.
+2025-02-05 14:31:39,767 - INFO - Execution time: 1.69 seconds
+2025-02-06 22:40:31,493 - INFO - Connected to Redis successfully.
+2025-02-06 22:40:31,494 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-02-06 22:40:31,494 - INFO - Processing group: HDSS_COL with c_status: 
+2025-02-06 22:40:31,942 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-02-06 22:40:31,951 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-02-06 22:40:32,409 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-02-06 22:40:32,536 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-02-06 22:40:33,114 - INFO - Data has been written to /home/Export_dau_so/4433ebaa-b262-460e-98b5-c7cd3fa3d4d8/export_dauso_06-02-2025 22:40:32.xlsx
+2025-02-06 22:40:33,114 - INFO - Updating status to 'Completed' for record ID: 4433ebaa-b262-460e-98b5-c7cd3fa3d4d8.
+2025-02-06 22:40:33,129 - INFO - Record ID 4433ebaa-b262-460e-98b5-c7cd3fa3d4d8 has been updated to 'Completed'.
+2025-02-06 22:40:33,129 - INFO - Execution time: 1.63 seconds
+2025-03-04 09:54:40,049 - INFO - Connected to Redis successfully.
+2025-03-04 09:54:40,052 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-04 09:54:40,052 - INFO - Processing group: HDSS_COL with c_status: Lock
+2025-03-04 09:54:40,507 - INFO - Processing group: HDSS_CSE with c_status: Lock
+2025-03-04 09:54:40,515 - INFO - Processing group: HDSS_COL_HNI with c_status: Lock
+2025-03-04 09:54:40,991 - INFO - Processing group: HDSS_SCL_HNI with c_status: Lock
+2025-03-04 09:54:41,115 - INFO - Processing group: HDSS_CUN with c_status: Lock
+2025-03-04 09:54:41,634 - INFO - Data has been written to /home/Export_dau_so/28644cf7-1d7a-4348-9b5e-2c11473971fd/export_dauso_04-03-2025 09:54:41.xlsx
+2025-03-04 09:54:41,634 - INFO - Updating status to 'Completed' for record ID: 28644cf7-1d7a-4348-9b5e-2c11473971fd.
+2025-03-04 09:54:41,653 - INFO - Record ID 28644cf7-1d7a-4348-9b5e-2c11473971fd has been updated to 'Completed'.
+2025-03-04 09:54:41,653 - INFO - Execution time: 1.60 seconds
+2025-03-08 21:41:46,691 - INFO - Connected to Redis successfully.
+2025-03-08 21:41:46,695 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-08 21:41:46,695 - INFO - Processing group: HDSS_COL with c_status: 
+2025-03-08 21:41:47,149 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-03-08 21:41:47,156 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-03-08 21:41:47,608 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-03-08 21:41:47,725 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-03-08 21:41:48,558 - INFO - Data has been written to /home/Export_dau_so/6bff83fa-f292-4ce8-9894-4f43f796ea55/export_dauso_08-03-2025 21:41:47.xlsx
+2025-03-08 21:41:48,558 - INFO - Updating status to 'Completed' for record ID: 6bff83fa-f292-4ce8-9894-4f43f796ea55.
+2025-03-08 21:41:48,574 - INFO - Record ID 6bff83fa-f292-4ce8-9894-4f43f796ea55 has been updated to 'Completed'.
+2025-03-08 21:41:48,574 - INFO - Execution time: 1.88 seconds
+2025-03-08 21:43:29,530 - INFO - Connected to Redis successfully.
+2025-03-08 21:43:29,530 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-08 21:43:29,530 - INFO - Processing group: HDSS_COL with c_status: 
+2025-03-08 21:43:30,019 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-03-08 21:43:30,026 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-03-08 21:43:30,511 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-03-08 21:43:30,639 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-03-08 21:43:31,349 - INFO - Data has been written to /home/Export_dau_so/6cdd8bbe-3402-46e9-8b63-a6f4b8168e50/export_dauso_08-03-2025 21:43:30.xlsx
+2025-03-08 21:43:31,350 - INFO - Updating status to 'Completed' for record ID: 6cdd8bbe-3402-46e9-8b63-a6f4b8168e50.
+2025-03-08 21:43:31,366 - INFO - Record ID 6cdd8bbe-3402-46e9-8b63-a6f4b8168e50 has been updated to 'Completed'.
+2025-03-08 21:43:31,366 - INFO - Execution time: 1.84 seconds
+2025-03-26 18:24:54,487 - INFO - Connected to Redis successfully.
+2025-03-26 18:24:54,491 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-26 18:24:54,491 - INFO - Processing group: HDSS_COL with c_status: 
+2025-03-26 18:24:55,016 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-03-26 18:24:55,024 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-03-26 18:24:55,535 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-03-26 18:24:55,664 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-03-26 18:24:56,634 - INFO - Data has been written to /home/Export_dau_so/a7fc090c-0e18-4aa9-b153-1fe4773930fb/export_dauso_26-03-2025 18:24:55.xlsx
+2025-03-26 18:24:56,634 - INFO - Updating status to 'Completed' for record ID: a7fc090c-0e18-4aa9-b153-1fe4773930fb.
+2025-03-26 18:24:56,652 - INFO - Record ID a7fc090c-0e18-4aa9-b153-1fe4773930fb has been updated to 'Completed'.
+2025-03-26 18:24:56,652 - INFO - Execution time: 2.16 seconds
+2025-03-26 18:25:08,250 - INFO - Connected to Redis successfully.
+2025-03-26 18:25:08,251 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-26 18:25:08,251 - INFO - Processing group: HDSS_COL with c_status: 
+2025-03-26 18:25:08,802 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-03-26 18:25:08,809 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-03-26 18:25:09,383 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-03-26 18:25:09,532 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-03-26 18:25:10,264 - INFO - Data has been written to /home/Export_dau_so/df8d5488-3c1c-43b4-9080-740155626a3a/export_dauso_26-03-2025 18:25:09.xlsx
+2025-03-26 18:25:10,264 - INFO - Updating status to 'Completed' for record ID: df8d5488-3c1c-43b4-9080-740155626a3a.
+2025-03-26 18:25:10,281 - INFO - Record ID df8d5488-3c1c-43b4-9080-740155626a3a has been updated to 'Completed'.
+2025-03-26 18:25:10,282 - INFO - Execution time: 2.03 seconds
+2025-03-26 19:16:13,510 - INFO - Connected to Redis successfully.
+2025-03-26 19:16:13,511 - INFO - Processing multiple groups: ['HDSS_COL', 'HDSS_CSE', 'HDSS_COL_HNI', 'HDSS_SCL_HNI', 'HDSS_CUN']
+2025-03-26 19:16:13,511 - INFO - Processing group: HDSS_COL with c_status: 
+2025-03-26 19:16:13,990 - INFO - Processing group: HDSS_CSE with c_status: 
+2025-03-26 19:16:13,998 - INFO - Processing group: HDSS_COL_HNI with c_status: 
+2025-03-26 19:16:14,481 - INFO - Processing group: HDSS_SCL_HNI with c_status: 
+2025-03-26 19:16:14,610 - INFO - Processing group: HDSS_CUN with c_status: 
+2025-03-26 19:16:15,244 - INFO - Data has been written to /home/Export_dau_so/7b7c007b-6d24-47ad-979d-97c70b73cdb6/export_dauso_26-03-2025 19:16:14.xlsx
+2025-03-26 19:16:15,244 - INFO - Updating status to 'Completed' for record ID: 7b7c007b-6d24-47ad-979d-97c70b73cdb6.
+2025-03-26 19:16:15,263 - INFO - Record ID 7b7c007b-6d24-47ad-979d-97c70b73cdb6 has been updated to 'Completed'.
+2025-03-26 19:16:15,263 - INFO - Execution time: 1.75 seconds

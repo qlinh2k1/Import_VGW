@@ -1,0 +1,118 @@
+2024-09-25 18:10:49,850 - INFO - Connected to Redis successfully.
+2024-09-25 18:10:49,851 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 18:10:49,851 - INFO - Processing group: Sacombank-Caller-Status with c_status: Available
+2024-09-25 18:10:49,855 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: Available
+2024-09-25 18:10:50,067 - INFO - Data has been written to /home/Export_dau_so_scb/b97ae15a-4802-4a84-9228-2fd2ab593c8e/export_dauso_scb_25-09-2024 18:10:49.xlsx
+2024-09-25 18:10:50,067 - INFO - Updating status to 'Completed' for record ID: b97ae15a-4802-4a84-9228-2fd2ab593c8e.
+2024-09-25 18:10:50,084 - INFO - Record ID b97ae15a-4802-4a84-9228-2fd2ab593c8e has been updated to 'Completed'.
+2024-09-25 18:10:50,085 - INFO - Execution time: 0.23 seconds
+2024-09-25 18:18:08,848 - INFO - Connected to Redis successfully.
+2024-09-25 18:18:08,848 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 18:18:08,848 - INFO - Processing group: Sacombank-Caller-Status with c_status: Available
+2024-09-25 18:18:08,852 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: Available
+2024-09-25 18:18:09,051 - INFO - Data has been written to /home/Export_dau_so_scb/b97ae15a-4802-4a84-9228-2fd2ab593c8e/export_dauso_scb_25-09-2024 18:18:08.xlsx
+2024-09-25 18:18:09,051 - INFO - Updating status to 'Completed' for record ID: b97ae15a-4802-4a84-9228-2fd2ab593c8e.
+2024-09-25 18:18:09,068 - INFO - Record ID b97ae15a-4802-4a84-9228-2fd2ab593c8e has been updated to 'Completed'.
+2024-09-25 18:18:09,068 - INFO - Execution time: 0.22 seconds
+2024-09-25 20:51:33,057 - INFO - Connected to Redis successfully.
+2024-09-25 20:51:33,057 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 20:51:33,058 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-09-25 20:51:33,061 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-09-25 20:51:33,262 - INFO - Data has been written to /home/Export_dau_so_scb/1cb5eed4-2e74-4dff-abdd-cd7aa8c320d5/export_dauso_scb_25-09-2024 20:51:33.xlsx
+2024-09-25 20:51:33,262 - INFO - Updating status to 'Completed' for record ID: 1cb5eed4-2e74-4dff-abdd-cd7aa8c320d5.
+2024-09-25 20:51:33,277 - INFO - Record ID 1cb5eed4-2e74-4dff-abdd-cd7aa8c320d5 has been updated to 'Completed'.
+2024-09-25 20:51:33,277 - INFO - Execution time: 0.22 seconds
+2024-09-25 21:05:20,823 - INFO - Connected to Redis successfully.
+2024-09-25 21:05:20,823 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 21:05:20,824 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-09-25 21:05:20,827 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-09-25 21:05:21,020 - INFO - Data has been written to /home/Export_dau_so_scb/dec5bc3a-9ce1-4309-88d6-a258bdb53ccd/export_dauso_scb_25-09-2024 21:05:20.xlsx
+2024-09-25 21:05:21,020 - INFO - Updating status to 'Completed' for record ID: dec5bc3a-9ce1-4309-88d6-a258bdb53ccd.
+2024-09-25 21:05:21,035 - INFO - Record ID dec5bc3a-9ce1-4309-88d6-a258bdb53ccd has been updated to 'Completed'.
+2024-09-25 21:05:21,035 - INFO - Execution time: 0.21 seconds
+2024-09-25 21:07:35,618 - INFO - Connected to Redis successfully.
+2024-09-25 21:07:35,619 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 21:07:35,619 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-09-25 21:07:35,623 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-09-25 21:07:35,808 - INFO - Data has been written to /home/Export_dau_so_scb/02674446-de96-4128-b499-4c9def3c20cc/export_dauso_scb_25-09-2024 21:07:35.xlsx
+2024-09-25 21:07:35,808 - INFO - Updating status to 'Completed' for record ID: 02674446-de96-4128-b499-4c9def3c20cc.
+2024-09-25 21:07:35,823 - INFO - Record ID 02674446-de96-4128-b499-4c9def3c20cc has been updated to 'Completed'.
+2024-09-25 21:07:35,823 - INFO - Execution time: 0.20 seconds
+2024-09-25 21:10:57,269 - INFO - Connected to Redis successfully.
+2024-09-25 21:10:57,270 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 21:10:57,270 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-09-25 21:10:57,274 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-09-25 21:10:57,539 - INFO - Data has been written to /home/Export_dau_so_scb/102ac9f2-53c5-4118-af6e-48784fa507b7/export_dauso_scb_25-09-2024 21:10:57.xlsx
+2024-09-25 21:10:57,539 - INFO - Updating status to 'Completed' for record ID: 102ac9f2-53c5-4118-af6e-48784fa507b7.
+2024-09-25 21:10:57,556 - INFO - Record ID 102ac9f2-53c5-4118-af6e-48784fa507b7 has been updated to 'Completed'.
+2024-09-25 21:10:57,556 - INFO - Execution time: 0.29 seconds
+2024-09-25 21:12:04,806 - INFO - Connected to Redis successfully.
+2024-09-25 21:12:04,806 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-25 21:12:04,806 - INFO - Processing group: Sacombank-Caller-Status with c_status: Available
+2024-09-25 21:12:04,810 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: Available
+2024-09-25 21:12:04,998 - INFO - Data has been written to /home/Export_dau_so_scb/db8cb524-1217-4a61-b7bb-3610981fe9dc/export_dauso_scb_25-09-2024 21:12:04.xlsx
+2024-09-25 21:12:04,998 - INFO - Updating status to 'Completed' for record ID: db8cb524-1217-4a61-b7bb-3610981fe9dc.
+2024-09-25 21:12:05,012 - INFO - Record ID db8cb524-1217-4a61-b7bb-3610981fe9dc has been updated to 'Completed'.
+2024-09-25 21:12:05,012 - INFO - Execution time: 0.21 seconds
+2024-09-26 12:22:47,287 - INFO - Connected to Redis successfully.
+2024-09-26 12:22:47,287 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-09-26 12:22:47,287 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-09-26 12:22:47,291 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-09-26 12:22:47,492 - INFO - Data has been written to /home/Export_dau_so_scb/0f4d0551-b6f2-4fa9-b5f2-4437a36d1ac5/export_dauso_scb_26-09-2024 12:22:47.xlsx
+2024-09-26 12:22:47,492 - INFO - Updating status to 'Completed' for record ID: 0f4d0551-b6f2-4fa9-b5f2-4437a36d1ac5.
+2024-09-26 12:22:47,512 - INFO - Record ID 0f4d0551-b6f2-4fa9-b5f2-4437a36d1ac5 has been updated to 'Completed'.
+2024-09-26 12:22:47,512 - INFO - Execution time: 0.22 seconds
+2024-12-18 23:43:02,525 - INFO - Connected to Redis successfully.
+2024-12-18 23:43:02,526 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2024-12-18 23:43:02,526 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2024-12-18 23:43:02,530 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2024-12-18 23:43:02,835 - INFO - Data has been written to /home/Export_dau_so_scb/dd4c675c-86ce-4f57-b9c1-707de92c8ec3/export_dauso_scb_18-12-2024 23:43:02.xlsx
+2024-12-18 23:43:02,835 - INFO - Updating status to 'Completed' for record ID: dd4c675c-86ce-4f57-b9c1-707de92c8ec3.
+2024-12-18 23:43:02,852 - INFO - Record ID dd4c675c-86ce-4f57-b9c1-707de92c8ec3 has been updated to 'Completed'.
+2024-12-18 23:43:02,852 - INFO - Execution time: 0.33 seconds
+2025-01-06 16:09:43,775 - INFO - Connected to Redis successfully.
+2025-01-06 16:09:43,776 - INFO - Processing single group: BEFINANCIAL-CallerStatus
+2025-01-06 16:09:43,776 - INFO - Processing group: BEFINANCIAL-CallerStatus with c_status: 
+2025-01-06 16:09:44,059 - INFO - Data has been written to /home/Export_dau_so_scb/66eeff66-1fcd-4964-8da6-938a8f73f44c/export_dauso_scb_06-01-2025 16:09:43.xlsx
+2025-01-06 16:09:44,059 - INFO - Updating status to 'Completed' for record ID: 66eeff66-1fcd-4964-8da6-938a8f73f44c.
+2025-01-06 16:09:44,082 - INFO - Record ID 66eeff66-1fcd-4964-8da6-938a8f73f44c has been updated to 'Completed'.
+2025-01-06 16:09:44,083 - INFO - Execution time: 0.31 seconds
+2025-01-06 16:22:33,967 - INFO - Connected to Redis successfully.
+2025-01-06 16:22:33,968 - INFO - Processing single group: BEFINANCIAL-Backup-CallerStatus
+2025-01-06 16:22:33,968 - INFO - Processing group: BEFINANCIAL-Backup-CallerStatus with c_status: 
+2025-01-06 16:22:34,202 - INFO - Data has been written to /home/Export_dau_so_scb/222de05a-078b-4cff-9340-2680e687491c/export_dauso_scb_06-01-2025 16:22:33.xlsx
+2025-01-06 16:22:34,202 - INFO - Updating status to 'Completed' for record ID: 222de05a-078b-4cff-9340-2680e687491c.
+2025-01-06 16:22:34,219 - INFO - Record ID 222de05a-078b-4cff-9340-2680e687491c has been updated to 'Completed'.
+2025-01-06 16:22:34,220 - INFO - Execution time: 0.25 seconds
+2025-01-07 09:17:37,134 - INFO - Connected to Redis successfully.
+2025-01-07 09:17:37,135 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2025-01-07 09:17:37,135 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2025-01-07 09:17:37,139 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2025-01-07 09:17:37,363 - INFO - Data has been written to /home/Export_dau_so_scb/32efad91-eab2-4c11-85ae-c24a517ebebc/export_dauso_scb_07-01-2025 09:17:37.xlsx
+2025-01-07 09:17:37,363 - INFO - Updating status to 'Completed' for record ID: 32efad91-eab2-4c11-85ae-c24a517ebebc.
+2025-01-07 09:17:37,380 - INFO - Record ID 32efad91-eab2-4c11-85ae-c24a517ebebc has been updated to 'Completed'.
+2025-01-07 09:17:37,381 - INFO - Execution time: 0.25 seconds
+2025-01-07 09:19:18,869 - INFO - Connected to Redis successfully.
+2025-01-07 09:19:18,869 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2025-01-07 09:19:18,869 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2025-01-07 09:19:18,873 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2025-01-07 09:19:19,117 - INFO - Data has been written to /home/Export_dau_so_scb/2d174a8b-0787-476f-b13f-54271d192fa4/export_dauso_scb_07-01-2025 09:19:18.xlsx
+2025-01-07 09:19:19,117 - INFO - Updating status to 'Completed' for record ID: 2d174a8b-0787-476f-b13f-54271d192fa4.
+2025-01-07 09:19:19,134 - INFO - Record ID 2d174a8b-0787-476f-b13f-54271d192fa4 has been updated to 'Completed'.
+2025-01-07 09:19:19,135 - INFO - Execution time: 0.27 seconds
+2025-01-16 17:30:25,884 - INFO - Connected to Redis successfully.
+2025-01-16 17:30:25,887 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2025-01-16 17:30:25,888 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2025-01-16 17:30:25,891 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2025-01-16 17:30:26,307 - INFO - Data has been written to /home/Export_dau_so_scb/ac12e3ee-d5c2-416b-94fb-23df48d3cf0b/export_dauso_scb_16-01-2025 17:30:25.xlsx
+2025-01-16 17:30:26,308 - INFO - Updating status to 'Completed' for record ID: ac12e3ee-d5c2-416b-94fb-23df48d3cf0b.
+2025-01-16 17:30:26,329 - INFO - Record ID ac12e3ee-d5c2-416b-94fb-23df48d3cf0b has been updated to 'Completed'.
+2025-01-16 17:30:26,330 - INFO - Execution time: 0.44 seconds
+2025-03-22 09:19:22,258 - INFO - Connected to Redis successfully.
+2025-03-22 09:19:22,261 - INFO - Processing multiple groups: ['Sacombank-Caller-Status', 'Sacombank-Backup-Caller-Status']
+2025-03-22 09:19:22,261 - INFO - Processing group: Sacombank-Caller-Status with c_status: 
+2025-03-22 09:19:22,578 - INFO - Processing group: Sacombank-Backup-Caller-Status with c_status: 
+2025-03-22 09:19:23,090 - INFO - Data has been written to /home/Export_dau_so_scb/8c34102c-4ae6-4c8e-85ff-354936a5a5fd/export_dauso_scb_22-03-2025 09:19:22.xlsx
+2025-03-22 09:19:23,090 - INFO - Updating status to 'Completed' for record ID: 8c34102c-4ae6-4c8e-85ff-354936a5a5fd.
+2025-03-22 09:19:23,113 - INFO - Record ID 8c34102c-4ae6-4c8e-85ff-354936a5a5fd has been updated to 'Completed'.
+2025-03-22 09:19:23,114 - INFO - Execution time: 0.85 seconds
